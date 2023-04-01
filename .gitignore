@@ -1,0 +1,7 @@
+# Project exclude paths
+/out/
+.gradle
+out
+build
+
+api/v1/*.json
